@@ -1,1 +1,1 @@
-A [[world object]] that travels at a velocity. Cannot turn faster than its [[turn radius]]. Travels with a [[Schedule]].
+A [[world object]] that travels at a velocity. Cannot turn faster than its [[turn radius]]. Travels with a [[Schedule]]. 
