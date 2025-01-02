@@ -1,0 +1,1 @@
+The custom scene manager is named so because Unity already has a scene manager, but we want our own for adapting the code to our own needs.

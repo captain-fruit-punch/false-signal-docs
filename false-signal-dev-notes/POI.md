@@ -1,0 +1,1 @@
+A place where you can walk between places. [[POI]]s are 3d and have edges.

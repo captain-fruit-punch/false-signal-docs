@@ -1,0 +1,1 @@
+A place at a [[POI]] in the [[Open world]]. Like another screen but ya know smaller
