@@ -1,1 +1,1 @@
- This can be things like [[Planes]] scheduled to [[Depart]] or [[Buildings]] at [[POI]]s the [[Open world]] that are now open. 
+This can be things like [[Plane]] scheduled to [[Depart]] or [[Building]] at [[POI]]s the [[Open world]] that are now open. 

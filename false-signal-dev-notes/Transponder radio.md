@@ -1,0 +1,2 @@
+#design
+The transponder radio is a tool that can be pointed in any direction and picks up the frequencies of [[transponder]]s from [[Plane]]s. This shows up as a blip of some intensity when the radio is pointed to near where the plane is, and and associated [[transponder code]]s according to the [[transmission intensity]] of the [[transponder]].

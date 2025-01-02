@@ -1,1 +1,2 @@
+#design 
 This map is a map that stores both visual and taggable information (names & locations of places, elevation of terrain, placeable waypoints). It can appear on different canvases across the game.

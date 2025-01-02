@@ -1,0 +1,2 @@
+#design
+A transponder is a [[world object]] that has a [[transponder code]] and a [[transmission intensity]]. It draws inspiration from [real transponders](https://en.wikipedia.org/wiki/Transponder_(aeronautics)). Do we want this to drop off using real r^2 laws?

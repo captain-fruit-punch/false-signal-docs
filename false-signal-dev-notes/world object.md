@@ -1,0 +1,1 @@
+A world object is an object that exists in the [[World manager]]. It typically is seen in the [[Open world]], [[ATC Environment]], and [[Map]].
