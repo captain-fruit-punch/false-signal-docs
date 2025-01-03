@@ -11,7 +11,7 @@ Internal usage guide:
     - [[Commit and Push]]
     - [[Merge]]
 - Unity-specific tips:
-	- **Merging scenes and prefabs is not advised.** Only **one** person should be working on and pushing changes to a scene or a prefab at a time. You need to revert your changes if you are making commits to the same scene/prefab at the same time as someone else.
+	- **Merging scenes or prefabs is not allowed.** Only **one** person should be working on and pushing changes to a scene or a prefab at a time. If you are working on a feature, you need to be creating a separate scene/prefab for that feature.
     - Always test scene changes before committing.
     - Use prefabs whenever possible.
     - Keep meta files with their assets.
