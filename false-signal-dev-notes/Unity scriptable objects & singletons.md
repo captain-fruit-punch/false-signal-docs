@@ -1,3 +1,4 @@
+#tool
 #### **Scriptable Objects**
 
 Scriptable Objects are used to store game data that is shared between systems and scenes. 
