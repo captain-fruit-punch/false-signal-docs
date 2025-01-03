@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using git.md",
+                "file": "Unity scriptable objects & singletons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using git"
+              "title": "Unity scriptable objects & singletons"
             }
           },
           {
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using git.md",
+                "file": "Unity scriptable objects & singletons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Using git"
+              "title": "Backlinks for Unity scriptable objects & singletons"
             }
           },
           {
@@ -161,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Using git.md",
+                "file": "Unity scriptable objects & singletons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Using git"
+              "title": "Outgoing links from Unity scriptable objects & singletons"
             }
           },
           {
@@ -188,10 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Using git.md"
+                "file": "Unity scriptable objects & singletons.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Using git"
+              "title": "Outline of Unity scriptable objects & singletons"
             }
           },
           {
@@ -226,25 +226,25 @@
   },
   "active": "74c2d27128078638",
   "lastOpenFiles": [
+    "Scenario manager.md",
+    "ATC Environment.md",
+    "Custom scene manager.md",
+    "Plane.md",
     "Building.md",
     "Using git.md",
-    "Plane.md",
     "Schedule.md",
-    "Scenario manager.md",
     "Scenario.md",
     "Transponder radio.md",
     "transponder.md",
     "world object.md",
     "transponder code.md",
     "transmission intensity.md",
-    "ATC Environment.md",
     "Open world.md",
     "Map.md",
     "Dialogue manager.md",
     "World manager.md",
     "Chat manager.md",
     "POI.md",
-    "Custom scene manager.md",
     "Unity scriptable objects & singletons.md",
     "Welcome.md"
   ]
