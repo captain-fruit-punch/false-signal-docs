@@ -1,0 +1,3 @@
+# Ignores graph.json and workspace.json
+graph.json
+workspace.json
