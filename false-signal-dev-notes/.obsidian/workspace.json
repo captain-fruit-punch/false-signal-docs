@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Using git"
             }
+          },
+          {
+            "id": "eb267821938c8b2f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e6e90cecf0040fec",
@@ -224,11 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77ea558c0cee980d",
+  "active": "eb267821938c8b2f",
   "lastOpenFiles": [
+    "Merge.md",
     "Commit and Push.md",
     "Local and Remote.md",
-    "Merge.md",
     "Using git.md",
     "Dialogue manager.md",
     "ATC Environment.md",
