@@ -1,0 +1,3 @@
+#code
+## Implementation
+The radio system uses [[Radio transmitter]]s, which are empty game objects on a [[Unity Layer]], and [[radio listener]]s, which are game objects with a collider on a [[Unity Layer]]. A [[Radio transmitter]] can use a physics overlap tool to detect [[radio listener]]s, and then exchange a [[radio message]] to that listener, calling `OnReceiveMessage`. Physics colliders on a [[Unity Layer]] can block this scan.

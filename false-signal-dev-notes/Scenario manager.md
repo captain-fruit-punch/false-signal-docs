@@ -1,2 +1,6 @@
 #manager 
 The scenario manager keeps track of the in-game time and makes changes to the [[World manager]] which updates all below it with the [[Scenario]]s that happen. 
+## Implementation
+It is a [[Singleton]]. When created, a [[scenario]] must add itself to the `activeScenarios` list with the `AddScenario(Scenario obj)` function . It currently tracks time using Unity's runtime time (ie. Time.deltaTime). 
+## Use
+When you want to have a thing in the world respond to time passing on a global scale in the world, create a [[Scenario]] on an empty gameobject as a child of the object you want it to control. Name and describe that scenario. Create/use a script that utilizes this [[scenario]], add this scenario as a serialized object in that script, and have the script add the scenario to the [[Scenario manager]] (`AddScenario`). Add whatever functions called by the [[Scenario]] to the UnityEvent list (doors opening, etc). Now that function will be called when that scenario is activated externally.
